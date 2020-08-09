@@ -28,9 +28,11 @@ twitter_username: chinmayT7
 github_username:  chinmayaswami
 
 # Build settings
-theme: minima
+# theme: alembic-jekyll-theme
+remote_theme: daviddarnes/alembic
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
